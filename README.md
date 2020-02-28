@@ -1,6 +1,6 @@
 # Unsupervised Domain Adaptation via Discriminative Manifold Embedding and Alignment
 
-This is the `Pytorch` demo code for **[Unsupervised Domain Adaptation via Discriminative Manifold Embedding and Alignment (DRMEA) (AAAI 2020 Oral)](https://arxiv.org/abs/2002.08675)** 
+This is the `Pytorch` demo code for **[Unsupervised Domain Adaptation via Discriminative Manifold Embedding and Alignment (DRMEA) (AAAI 2020)](https://arxiv.org/abs/2002.08675)** 
 
 ## Requirements
 - python 3.6
