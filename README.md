@@ -8,8 +8,8 @@ This is the `Pytorch` demo code for **[Unsupervised Domain Adaptation via Discri
 
 ## Dataset
 - The dataset should be placed in `./Dataset`, e.g.,
- 
- `./Dataset/ImageCLEF`
+
+  `./Dataset/ImageCLEF`
 
 - The structure of the datasets should be like
 ```
