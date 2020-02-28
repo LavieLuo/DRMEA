@@ -7,11 +7,11 @@ This is the `Pytorch` demo code for **[Unsupervised Domain Adaptation via Discri
 - PyTorch 1.0
 
 ## Dataset
-The dataset should be placed in `./Dataset`, e.g.,
+- The dataset should be placed in `./Dataset`, e.g.,
+ 
+ `./Dataset/ImageCLEF`
 
-  `./Dataset/ImageCLEF`
-
-The structure of the datasets should be like
+- The structure of the datasets should be like
 ```
 Image-CLEF (Dataset)
 |- I (Domain)
