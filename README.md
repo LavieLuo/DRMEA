@@ -42,7 +42,7 @@ If this repository is helpful for you, please cite our paper:
 ```
 @inproceedings{luo2020unsupervised,
   title={Unsupervised Domain Adaptation via Discriminative Manifold Embedding and Alignment},
-  author={You Wei Luo, and Chuan Xian Ren, and Ge, Pengfei and Ke kun Huang, and Yu-Feng Yu},
+  author={You-Wei Luo, and Chuan-Xian Ren, and Pengfei Ge, and Ke-kun Huang, and Yu-Feng Yu},
   booktitle={AAAI},
   year={2020}
 }
