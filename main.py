@@ -41,7 +41,7 @@ def train(config):
     
     # ========= Downlaod Pretrained Model
     url = 'https://download.pytorch.org/models/resnet50-19c8e357.pth'    
-    pretrained_dict = model_zoo.load_url(url,model_dir='/media/lijzh/01e0c47b-e52f-4a9e-86c2-a09e9217b2bb/office transfer/wp/OfficeHomeDataset_10072016/')
+    pretrained_dict = model_zoo.load_url(url,model_dir='./pretrained_dict')
     del pretrained_dict['fc.bias']
     del pretrained_dict['fc.weight']
     
